@@ -1,0 +1,14 @@
+h1 {
+    color: #000;
+}
+
+span {
+    color: #037bc0;
+}
+
+.enlace {
+    text-transform: uppercase;
+    font-weight: bold;
+    text-decoration: none;
+    color: #037bc0;
+}
